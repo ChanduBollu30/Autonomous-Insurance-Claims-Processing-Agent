@@ -1,0 +1,5 @@
+pdfplumber
+python-dateutil
+pytesseract
+pdf2image
+Pillow

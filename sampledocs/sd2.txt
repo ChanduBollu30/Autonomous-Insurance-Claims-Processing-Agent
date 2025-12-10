@@ -1,0 +1,13 @@
+Policy Number: P-209988
+Policyholder Name: Sita Devi
+Incident Date: 2025/11/25
+Time: 09:15AM
+Location: Near Lotus Mall
+Description: Passenger injured after slippage. Ambulatory care required.
+Claimant: Sita Devi
+Contact: 9444556677
+Asset Type: Two-wheeler
+Estimated Damage: INR 40,000
+Claim Type: Injury
+Attachments: hospital_bill.pdf
+Initial Estimate: 40000
